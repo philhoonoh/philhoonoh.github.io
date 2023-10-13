@@ -41,5 +41,9 @@ In this point of view, I am particularly eager to delve deeper into areas descri
    - Some potential remedies include prompting, ICT (In-Context Learning), and the utilization of external knowledge sources.
    - How might we effectively resolve this problem?
 
+---
+
+Email: philhoonoh@kaist.ac.kr // vlfgns5@gmail.com
+
 [//]: # (Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page]&#40;/al-folio/publications/&#41; automatically.)
 [//]: # (Link to your social media connections, too. This theme is set up to use [Font Awesome icons]&#40;http://fortawesome.github.io/Font-Awesome/&#41; and [Academicons]&#40;https://jpswalsh.github.io/academicons/&#41;, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.)
