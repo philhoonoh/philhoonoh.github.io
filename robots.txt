@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://philhoonoh.github.io/philhoonoh.github.io/sitemap.xml
+Sitemap: https://philhoonoh.github.io/sitemap.xml
