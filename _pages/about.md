@@ -25,12 +25,12 @@ I am currently a master's student at the <a href='https://gsai.kaist.ac.kr/'>Kim
 I believe language plays a pivotal role in transferring knowledge. While humans appeared on Earth millions of years ago, civilization has only been built for thousands of years. It has only been in the last few hundred years that humans have made significant strides by accumulating knowledge through language. In other words, language enables people to think collectively beyond time and space. If we can expedite the sharing of knowledge by incorporating language into machines, it will be possible for humans to make further progress.
 
 My primary interests lie in Information Retrieval (IR) and Question Answering (QA). 
-I believe that every form of language (conversations, audio, text) can be reformulated as `question + (external information) = answer` format. This external information might include facial expressions, the speaker's tone, and contexts in conversations, audio, and text, respectively.
-In this point of view, I am particularly eager to delve deeper into areas described below:
+I believe that every form of language (conversations, audio, text) can be reformulated as `question + (external information) = answer` format. This external information might include facial expressions, the speaker's tone, and contexts.
+With this perspective, I am particularly eager to delve deeper into areas described below:
 
 1. Information Retrieval
    - Information Retrieval encompasses a range of intriguing topics, such as Open-Domain Question Answering (ODQA), Multi-hop reasoning, and more. 
-   - Let's search for information that can help fulfill the user's intention.
+   - Let's search for information that can help align with the user's intention.
 
 2. Fact Verification
    - Answering questions based on misleading information can have detrimental effects on society. 
@@ -43,7 +43,7 @@ In this point of view, I am particularly eager to delve deeper into areas descri
 
 ---
 
-Email: philhoonoh@kaist.ac.kr // vlfgns5@gmail.com
+Email: philhoonoh@kaist.ac.kr / vlfgns5@gmail.com
 
 [//]: # (Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page]&#40;/al-folio/publications/&#41; automatically.)
 [//]: # (Link to your social media connections, too. This theme is set up to use [Font Awesome icons]&#40;http://fortawesome.github.io/Font-Awesome/&#41; and [Academicons]&#40;https://jpswalsh.github.io/academicons/&#41;, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.)
