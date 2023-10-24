@@ -38,7 +38,7 @@ With this perspective, I am particularly eager to delve deeper into areas descri
 
 3. Hallucination (Confabulation)
    - No definitive solutions have been found yet
-   - Some potential remedies include prompting, ICT (In-Context Learning), and the utilization of external knowledge sources.
+   - Some potential remedies include prompting, ICL (In-Context Learning), and the utilization of external knowledge sources.
    - How might we effectively resolve this problem?
 
 ---
