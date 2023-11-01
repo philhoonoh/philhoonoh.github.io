@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined <a href='https://gsai.kaist.ac.kr/'>XFACT</a> Lab at KAIST as a Master student.
+I joined <a href='https://xfact.net/'>XFACT</a> Lab at KAIST as a Master student.
