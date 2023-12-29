@@ -1,13 +1,8 @@
-[//]: # (---)
+---
+layout: post
+date: 2024-01-02 15:59:00-0400
+inline: true
+related_posts: false
+---
 
-[//]: # (layout: post)
-
-[//]: # (date: 2016-01-15 07:59:00-0400)
-
-[//]: # (inline: true)
-
-[//]: # (related_posts: false)
-
-[//]: # (---)
-
-[//]: # (A simple inline announcement with Markdown emoji! :sparkles: :smile:)
+Started as Research Intern at <a href='https://www.navercorp.com/'>NAVER Search</a> 
