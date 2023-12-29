@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am currently a master's student at the <a href='https://gsai.kaist.ac.kr/'>Kim Jaechul Graduate School of AI</a>, where I am fortunate to be advised by <a href='https://jamesthorne.com/'>James Thorne</a>. Before joining KAIST, I was a NLP engineer in <a href='https://eng.sk.com/companies/sk-inc-c-c'>SK Inc. C&C</a>, and I received my bachelor's degree at UC Berkeley, majoring in Statistics.
+I am currently a master's student at the <a href='https://gsai.kaist.ac.kr/'>Kim Jaechul Graduate School of AI</a>, where I am fortunate to be advised by <a href='https://jamesthorne.com/'>Prof. James Thorne</a> and <a href='https://alinlab.kaist.ac.kr/shin.html/'>Prof. James Thorne</a> . Before joining KAIST, I was a NLP engineer in <a href='https://eng.sk.com/companies/sk-inc-c-c'>SK Inc. C&C</a>, and I received my bachelor's degree at UC Berkeley, majoring in Statistics.
 
 I believe language plays a pivotal role in transferring knowledge. While humans appeared on Earth millions of years ago, civilization has only been built for thousands of years. It has only been in the last few hundred years that humans have made significant strides by accumulating knowledge through language. In other words, language enables people to think collectively beyond time and space. If we can expedite the sharing of knowledge by incorporating language into machines, it will be possible for humans to make further progress.
 
