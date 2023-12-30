@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started as Research Intern at <a href='https://www.navercorp.com/'>NAVER Search</a> 
+Started as Research Intern at <a href='https://www.navercorp.com/en'>NAVER Search</a> 
