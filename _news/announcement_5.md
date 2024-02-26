@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1 papers accepted to LREC-COLING 2024
+title: 1 paper accepted to LREC-COLING 2024
 date: 2024-02-20 16:11:00-0400
 inline: false
 related_posts: false
