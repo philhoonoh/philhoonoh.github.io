@@ -14,8 +14,8 @@ related_posts: false
 
 ## Paper list
 <ul>
-    <li>Detrimental Contexts in Open-Domain Question Answering</li>
-    <li>Knowledge Corpus Error in Question Answering</li>
+    <li> <a href='https://arxiv.org/abs/2310.18077'>Detrimental Contexts in Open-Domain Question Answering </a> </li>
+    <li> <a href='https://arxiv.org/abs/2310.18076'>Knowledge Corpus Error in Question Answering </a>  </li>
 </ul>
 
 
