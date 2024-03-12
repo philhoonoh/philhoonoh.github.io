@@ -14,7 +14,7 @@ related_posts: false
 
 ## Paper list
 <ul>
-    <li> CLIcK: A Benchmark Dataset of Cultural and Linguistic Intelligence in Korean </li>
+    <li> <a href='https://arxiv.org/abs/2403.06412'>CLIcK: A Benchmark Dataset of Cultural and Linguistic Intelligence in Korean </a> </li>
 </ul>
 
 
