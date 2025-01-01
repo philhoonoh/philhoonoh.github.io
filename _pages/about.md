@@ -24,22 +24,21 @@ I am currently a master's student at the <a href='https://gsai.kaist.ac.kr/'>Kim
 
 I believe language plays a pivotal role in transferring knowledge. While humans appeared on Earth millions of years ago, civilization has only been built for thousands of years. It has only been in the last few hundred years that humans have made significant strides by accumulating knowledge through language. In other words, language enables people to think collectively beyond time and space. If we can expedite the sharing of knowledge by incorporating language into machines, it will be possible for humans to make further progress.
 
-My primary interests lie in Information Retrieval (IR) and Question Answering (QA). 
-I believe that every form of language (conversations, audio, text) can be reformulated as `question + (external information) = answer` format. This external information might include facial expressions, the speaker's tone, and contexts.
+My primary interests lie in Information Retrieval (IR) and Retrieval Augmented Generation(RAG). 
+I believe that any form of communications (conversations, audio, text, images) can be reformulated as `query + (knowledge) = response` format. This external information might include facial expressions, the speaker's tone, and contexts.
 With this perspective, I am particularly eager to delve deeper into areas described below:
 
-1. Information Retrieval
+1. Retrieval Augmented Generation(RAG)
+   - RAG  encompasses a range of intriguing topics, such as Open-Domain Question Answering (ODQA), Multi-hop reasoning, and more. 
+   - Let's search for information that can help align with the user's intention.
+
+2. Information Retrieval
    - Information Retrieval encompasses a range of intriguing topics, such as Open-Domain Question Answering (ODQA), Multi-hop reasoning, and more. 
    - Let's search for information that can help align with the user's intention.
 
-2. Fact Verification
-   - Answering questions based on misleading information can have detrimental effects on society. 
-   - How can a model effectively discern facts from non-facts?
-
-3. Hallucination (Confabulation)
-   - No definitive solutions have been found yet
-   - Some potential remedies include prompting, ICL (In-Context Learning), and the utilization of external knowledge sources.
-   - How might we effectively resolve this problem?
+3. LLMs (Large Langauge Models)
+   - Interested in efficient utilization of LLMs in various domains (Multi-Modal, Tabular, Structured input, etc)
+   - Some potential methods include prompting, ICL (In-Context Learning), and the utilization of external knowledge sources.
 
 ---
 
