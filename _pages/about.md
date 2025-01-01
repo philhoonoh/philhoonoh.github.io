@@ -25,7 +25,7 @@ I am currently a master's student at the <a href='https://gsai.kaist.ac.kr/'>Kim
 I believe language plays a pivotal role in transferring knowledge. While humans appeared on Earth millions of years ago, civilization has only been built for thousands of years. It has only been in the last few hundred years that humans have made significant strides by accumulating knowledge through language. In other words, language enables people to think collectively beyond time and space. If we can expedite the sharing of knowledge by incorporating language into machines, it will be possible for humans to make further progress.
 
 My primary interests lie in Information Retrieval (IR) and Retrieval Augmented Generation(RAG). 
-I believe that any form of communications (conversations, audio, text, images) can be reformulated as `query + (external knowledge) = response` format.
+I believe that any form of communication (conversations, audio, text, images) can be reformulated as `query + (external knowledge) = response` format.
 With this perspective, I am particularly eager to delve deeper into areas described below:
 
 1. Retrieval Augmented Generation(RAG)
