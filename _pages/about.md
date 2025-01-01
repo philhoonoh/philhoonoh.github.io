@@ -25,19 +25,19 @@ I am currently a master's student at the <a href='https://gsai.kaist.ac.kr/'>Kim
 I believe language plays a pivotal role in transferring knowledge. While humans appeared on Earth millions of years ago, civilization has only been built for thousands of years. It has only been in the last few hundred years that humans have made significant strides by accumulating knowledge through language. In other words, language enables people to think collectively beyond time and space. If we can expedite the sharing of knowledge by incorporating language into machines, it will be possible for humans to make further progress.
 
 My primary interests lie in Information Retrieval (IR) and Retrieval Augmented Generation(RAG). 
-I believe that any form of communications (conversations, audio, text, images) can be reformulated as `query + (knowledge) = response` format. This external information might include facial expressions, the speaker's tone, and contexts.
+I believe that any form of communications (conversations, audio, text, images) can be reformulated as `query + (external knowledge) = response` format.
 With this perspective, I am particularly eager to delve deeper into areas described below:
 
 1. Retrieval Augmented Generation(RAG)
-   - RAG  encompasses a range of intriguing topics, such as Open-Domain Question Answering (ODQA), Multi-hop reasoning, and more. 
-   - Let's search for information that can help align with the user's intention.
+   - RAG has been effective tool to deal with long-tail knowledge, hallucinations, and up-to-date information. 
+   - My interests include how to improve the RAG pipeline and overcome the limitation of RAG for better user experience.
 
 2. Information Retrieval
    - Information Retrieval encompasses a range of intriguing topics, such as Open-Domain Question Answering (ODQA), Multi-hop reasoning, and more. 
    - Let's search for information that can help align with the user's intention.
 
 3. LLMs (Large Langauge Models)
-   - Interested in efficient utilization of LLMs in various domains (Multi-Modal, Tabular, Structured input, etc)
+   - Interested in efficient utilization of LLMs in various domains (Multi-Modal, Tabular, etc)
    - Some potential methods include prompting, ICL (In-Context Learning), and the utilization of external knowledge sources.
 
 ---
